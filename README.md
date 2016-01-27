@@ -13,7 +13,7 @@ Brian Lam
 
 Carlie Abraham
 
-Note: Carlie Abraham wrote the CArd, Hand, and Deck files. We 
+Note: Carlie Abraham wrote the Card, Hand, and Deck files. We 
 all have similar files to those from previous projects, but we 
 chose to use hers for this project.
 ========================================================
