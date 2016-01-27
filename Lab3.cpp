@@ -76,8 +76,7 @@ int main(int argc, char* argv[])
 				game->stop_game();
 				return errorMsg::badGameName;
 			}
-			//JZ: why do we silently swallow all other errors? If you want to at least let it propagate,
-			//leave a 'throw;' here
+			
 		}
 		catch (int d) {
 			string errorMessage;
